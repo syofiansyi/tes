@@ -4,3 +4,6 @@
 [submodule "mybot"]
 	path = mybot
 	url = https://github.com/syofiansyi/mybot.git
+[submodule "kuenyabintang"]
+	path = kuenyabintang
+	url = https://github.com/syofiansyi/kuenyabintang.git
