@@ -1,0 +1,3 @@
+[submodule "PrimeProperti"]
+	path = PrimeProperti
+	url = https://github.com/syofiansyi/PrimeProperti.git
