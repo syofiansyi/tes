@@ -1,3 +1,6 @@
 [submodule "PrimeProperti"]
 	path = PrimeProperti
 	url = https://github.com/syofiansyi/PrimeProperti.git
+[submodule "mybot"]
+	path = mybot
+	url = https://github.com/syofiansyi/mybot.git
